@@ -30,6 +30,21 @@ A comprehensive stock trading simulation platform. This project demonstrates my 
 
 ---
 
+---
+
+## 🤖 Featured Project: HelpGPT - AI Chat Assistant
+
+A modern AI companion that provides real-time intelligent responses. This project highlights my skills in **Generative AI integration** and **User-Specific Persistence**.
+
+- **AI Integration:** Seamless connection with OpenAI API for contextual, high-quality chat interactions.
+- **Auth Overlay:** Custom-built signup gateway with a modern **Glass-morphism Blur** effect.
+- **Thread Management:** User-specific history storage in MongoDB, allowing private and persistent chat threads.
+- **UI/UX:** Premium dark-themed interface with mobile-responsive sidebar and real-time loading states.
+
+### 🔗 Live Links
+- **[HelpGPT Web App (Frontend)](https://helpgpt-frontend.vercel.app/)** 🌐
+- **[API Service (Backend)](https://helpgpt-backend.onrender.com/)** ⚙️
+
 ## 📫 Let's Connect!
 - 🎓 **Education:** Pursuing Information Science & Engineering
 - 📍 **Location:** Karnataka, India
