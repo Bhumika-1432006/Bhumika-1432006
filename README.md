@@ -30,15 +30,6 @@ A comprehensive stock trading simulation platform. This project demonstrates my 
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Bhumika-1432006&show_icons=true&theme=tokyonight" alt="Bhumika's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-1432006&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 - 🎓 **Education:** Pursuing Information Science & Engineering
 - 📍 **Location:** Karnataka, India
