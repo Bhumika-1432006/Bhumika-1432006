@@ -41,7 +41,14 @@ A modern AI companion that provides real-time intelligent responses. This projec
 - **Thread Management:** User-specific history storage in MongoDB, allowing private and persistent chat threads.
 - **UI/UX:** Premium dark-themed interface with mobile-responsive sidebar and real-time loading states.
 
-### 🔗 Live Links
+
+**🔗 Project Links:**
+
+* **Frontend Repository:** [View Code 🌐](https://github.com/Bhumika-1432006/Helpgpt-frontend)
+* **Backend Repository:** [View Code ⚙️](https://github.com/Bhumika-1432006/Helpgpt-backend)
+
+* ### 🔗 Live Links
+* 
 - **[HelpGPT Web App (Frontend)](https://helpgpt-frontend.vercel.app/)** 🌐
 - **[API Service (Backend)](https://helpgpt-backend.onrender.com/)** ⚙️
 
