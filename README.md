@@ -23,6 +23,13 @@ A comprehensive stock trading simulation platform. This project demonstrates my 
 - **Authentication:** Custom JWT-based logic with secure credential handling.
 - **Data Management:** Real-time CRUD operations for portfolio holdings and funds using Mongoose.
 
+
+### 📈 Zerodha Clone: Project code Links
+
+* **Landing Page (Marketing & Entry):** [View Code 🌐](https://github.com/Bhumika-1432006/zerodha-frontend)
+* **Trading Console (Dashboard & Logic):** [View Code 📊](https://github.com/Bhumika-1432006/zerodha-dashboard)
+* **Backend API (Server & Database):** [View Code ⚙️](https://github.com/Bhumika-1432006/Zerodha)
+  
 ### 🔗 Live Links
 - **[Main Entry Point (Landing Page)](https://zerodha-frontend-xi.vercel.app/)** 🌐
 - **[Trading Console (Dashboard)](https://zerodha-dashboard-eta.vercel.app/)** 📊
@@ -42,13 +49,13 @@ A modern AI companion that provides real-time intelligent responses. This projec
 - **UI/UX:** Premium dark-themed interface with mobile-responsive sidebar and real-time loading states.
 
 
-**🔗 Project Links:**
+**🔗 Project code Links:**
 
 * **Frontend Repository:** [View Code 🌐](https://github.com/Bhumika-1432006/Helpgpt-frontend)
 * **Backend Repository:** [View Code ⚙️](https://github.com/Bhumika-1432006/Helpgpt-backend)
 
 * ### 🔗 Live Links
-* 
+  
 - **[HelpGPT Web App (Frontend)](https://helpgpt-frontend.vercel.app/)** 🌐
 - **[API Service (Backend)](https://helpgpt-backend.onrender.com/)** ⚙️
 
