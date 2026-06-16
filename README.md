@@ -26,7 +26,7 @@ A privacy-first clinical platform designed to bridge the gap between high-utilit
 
 **🔗 Project code Links:**
 
-* **Repository:** [View Code 💻]([https://github.com/Bhumika-1432006/med-synth-ai](https://github.com/Bhumika-1432006/-Med_Synth_AI))
+* **Repository:** [View Code 💻](https://github.com/Bhumika-1432006/-Med_Synth_AI)
 
 ### 🔗 Live Links
   
