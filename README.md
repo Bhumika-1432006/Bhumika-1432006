@@ -15,6 +15,23 @@ I am a **Information Science & Engineering** student and **Full-Stack MERN Devel
 
 ---
 
+## 🏥 Featured Project: Med-Synth AI
+
+A privacy-first clinical platform designed to bridge the gap between high-utility medical research and strict data confidentiality. By generating statistically accurate "Clinical Twins," this project enables secure AI training without exposing real patient information.
+
+- **Generative Architecture:** Utilizes advanced models like **CTGAN** and **TVAE** to preserve the complex statistical correlations of clinical data.
+- **Privacy-First Pipeline:** Automated, HIPAA-compliant PII scrubbing engine that identifies and removes sensitive patient identifiers.
+- **Security & Validation:** Integrated differential privacy and "Clinical Turing Tests" to stress-test synthetic datasets against re-identification risks.
+- **UI/UX Engineering:** Modern, minimalist interface built with **Streamlit**, featuring custom dark-mode glassmorphism and real-time feedback consoles.
+
+**🔗 Project code Links:**
+
+* **Repository:** [View Code 💻](https://github.com/Bhumika-1432006/med-synth-ai)
+
+### 🔗 Live Links
+  
+- **[Med-Synth AI App](https://med-synth-ai.streamlit.app/)** 🌐
+
 ## 📈 Featured Project: Zerodha Full-Stack Clone
 
 A comprehensive stock trading simulation platform. This project demonstrates my ability to handle complex state management, secure authentication, and multi-service deployment.
