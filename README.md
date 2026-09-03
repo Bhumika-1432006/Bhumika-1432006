@@ -1,3 +1,9 @@
+# Hi there, I'm Bhumika! 👋 👩‍💻
+
+I am an **Information Science & Engineering** student and **Full-Stack MERN Developer**..
+
+---
+
 ### 🛠️ My Tech Stack
 
 | Category | Skills & Tools |
@@ -8,3 +14,83 @@
 | **AI, Vision & Audio** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Face Recognition](https://img.shields.io/badge/Face_Recognition-007ACC?style=for-the-badge&logo=the-algorithms&logoColor=white) ![Audio Processing](https://img.shields.io/badge/Audio_Processing-6C5CE7?style=for-the-badge&logo=soundcharts&logoColor=white) ![SDV/CTGAN](https://img.shields.io/badge/SDV%2FCTGAN-FF69B4?style=for-the-badge&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | **Data Science** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
 | **DevOps & Utilities** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Dotenv](https://img.shields.io/badge/Dotenv-ECD427?style=for-the-badge&logo=dotenv&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-yellow?style=for-the-badge&logo=pillow&logoColor=black) ![Segno QR](https://img.shields.io/badge/Segno_QR-0984E3?style=for-the-badge&logo=qr-code&logoColor=white) |
+---
+
+## 📸 Featured Project: SnapClass AI
+
+An intelligent classroom attendance and engagement automation platform designed to eliminate manual roll calls and stop proxy attendance using computer vision and audio analysis.
+
+- **Dual-Verification AI Pipeline:** Deep facial recognition matches student profiles across classroom snapshots in seconds, paired with an audio-recognition fallback for voice roll-call verification.
+- **Passwordless Face Login:** Real-time facial identification for instant student authentication directly through a single camera snapshot.
+- **Dual Role Architecture:** Distinct portals for teachers (class QR codes, subject generation, CSV logs, issue replies) and students (subject cards, private notes, dispute reporting).
+- **Gamification & Student Life:** Features interactive engagement modules like *"Your Semester, Roasted"* (AI-generated attendance commentary) and *"Start Beef"* (peer-to-peer streak tracking).
+- **UI/UX Polish:** Fast, lightweight Streamlit frontend styled with a modern, responsive design and custom avatar personalization.
+
+**🔗 Project Code Links:**
+* **Repository:** [View Code 💻](https://github.com/Bhumika-1432006/Snap-Class)
+
+### 🔗 Live Links
+- **[SnapClass AI App](https://snap-class--main.streamlit.app/)** 🌐
+
+---
+
+## 🏥 Featured Project: Med-Synth AI
+
+A privacy-first clinical platform designed to bridge the gap between high-utility medical research and strict data confidentiality. By generating statistically accurate "Clinical Twins," this project enables secure AI training without exposing real patient information.
+
+- **Generative Architecture:** Utilizes advanced models like **CTGAN** and **TVAE** to preserve the complex statistical correlations of clinical data.
+- **Privacy-First Pipeline:** Automated, HIPAA-compliant PII scrubbing engine that identifies and removes sensitive patient identifiers.
+- **Security & Validation:** Integrated differential privacy and "Clinical Turing Tests" to stress-test synthetic datasets against re-identification risks.
+- **UI/UX Engineering:** Modern, minimalist interface built with **Streamlit**, featuring custom dark-mode glassmorphism and real-time feedback consoles.
+
+**🔗 Project Code Links:**
+* **Repository:** [View Code 💻](https://github.com/Bhumika-1432006/-Med_Synth_AI)
+
+### 🔗 Live Links
+- **[Med-Synth AI App](https://med-synth-ai.streamlit.app/)** 🌐
+
+---
+
+## 📈 Featured Project: Zerodha Full-Stack Clone
+
+A comprehensive stock trading simulation platform. This project demonstrates my ability to handle complex state management, secure authentication, and multi-service deployment.
+
+- **Architecture:** Decoupled into 3 specialized repositories (Backend, Landing Page, and Trading Dashboard) to ensure modularity and independent scaling.
+- **Authentication:** Custom JWT-based logic with secure credential handling.
+- **Data Management:** Real-time CRUD operations for portfolio holdings and funds using Mongoose.
+
+### 📈 Zerodha Clone: Project Code Links
+* **Landing Page (Marketing & Entry):** [View Code 🌐](https://github.com/Bhumika-1432006/zerodha-frontend)
+* **Trading Console (Dashboard & Logic):** [View Code 📊](https://github.com/Bhumika-1432006/zerodha-dashboard)
+* **Backend API (Server & Database):** [View Code ⚙️](https://github.com/Bhumika-1432006/Zerodha)
+
+### 🔗 Live Links
+- **[Main Entry Point (Landing Page)](https://zerodha-frontend-xi.vercel.app/)** 🌐
+- **[Trading Console (Dashboard)](https://zerodha-dashboard-eta.vercel.app/)** 📊
+- **[Backend API (Render)](https://zerodha-pify.onrender.com/)** ⚙️
+
+---
+
+## 🤖 Featured Project: HelpGPT - AI Chat Assistant
+
+A modern AI companion that provides real-time intelligent responses. This project highlights my skills in **Generative AI integration** and **User-Specific Persistence**.
+
+- **AI Integration:** Seamless connection with OpenAI API for contextual, high-quality chat interactions.
+- **Auth Overlay:** Custom-built signup gateway with a modern **Glass-morphism Blur** effect.
+- **Thread Management:** User-specific history storage in MongoDB, allowing private and persistent chat threads.
+- **UI/UX:** Premium dark-themed interface with mobile-responsive sidebar and real-time loading states.
+
+**🔗 Project Code Links:**
+* **Frontend Repository:** [View Code 🌐](https://github.com/Bhumika-1432006/Helpgpt-frontend)
+* **Backend Repository:** [View Code ⚙️](https://github.com/Bhumika-1432006/Helpgpt-backend)
+
+### 🔗 Live Links
+- **[HelpGPT Web App (Frontend)](https://helpgpt-frontend.vercel.app/)** 🌐
+- **[API Service (Backend)](https://helpgpt-backend.onrender.com/)** ⚙️
+
+---
+
+## 📫 Let's Connect!
+- 🎓 **Education:** Pursuing Information Science & Engineering
+- 📍 **Location:** Karnataka, India
+- ⚡ **Fun Fact:** I'm a big fan of psychological thrillers and sports
