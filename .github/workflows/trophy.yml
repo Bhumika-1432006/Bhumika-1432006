@@ -20,7 +20,7 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: Bhumika-1432006
-          output_path: trophy.svg
+          output_path: ./trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: onedark
 
