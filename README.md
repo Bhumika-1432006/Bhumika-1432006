@@ -90,6 +90,20 @@ A modern AI companion that provides real-time intelligent responses. This projec
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhumika-1432006/Bhumika-1432006/main/trophy.svg" alt="GitHub Trophies" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhumika-1432006/Bhumika-1432006/main/activity.svg" alt="Contribution Activity" />
+</p>
+
+---
+
 ## 📫 Let's Connect!
 - 🎓 **Education:** Pursuing Information Science & Engineering
 - 📍 **Location:** Karnataka, India
