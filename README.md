@@ -152,7 +152,7 @@ A modern AI companion delivering real-time intelligent responses, with a custom 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Bhumika-1432006/Bhumika-1432006/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Bhumika-1432006/Bhumika-1432006/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
