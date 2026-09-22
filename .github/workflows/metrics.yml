@@ -23,3 +23,5 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
           config_timezone: Asia/Kolkata
+          config_theme: dark
+          config_base_color: "#8B5CF6"
