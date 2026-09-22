@@ -142,26 +142,9 @@ A modern AI companion delivering real-time intelligent responses, with a custom 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhumika-1432006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-1432006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
-
 <img src="https://streak-stats.demolab.com/?user=Bhumika-1432006&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bhumika-1432006&theme=algolia&no-frame=true&row=1&column=6)
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhumika-1432006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff)
+<img src="https://raw.githubusercontent.com/Bhumika-1432006/Bhumika-1432006/main/metrics.svg" width="100%"/>
 
 </div>
 
@@ -172,8 +155,6 @@ A modern AI companion delivering real-time intelligent responses, with a custom 
 ![Snake animation](https://raw.githubusercontent.com/Bhumika-1432006/Bhumika-1432006/output/github-contribution-grid-snake.svg)
 
 </div>
-
-> ⚠️ The snake graph needs a one-time GitHub Actions workflow in this repo to generate — see `snake.yml` below.
 
 <br/>
 
