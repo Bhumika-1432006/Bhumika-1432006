@@ -118,6 +118,14 @@ A modern AI companion that provides real-time intelligent responses. This projec
 
 ---
 
+## 🧭 Activity Overview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhumika-1432006/Bhumika-1432006/main/activity-overview.svg" alt="Activity overview" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
