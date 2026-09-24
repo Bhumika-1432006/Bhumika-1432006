@@ -1,4 +1,4 @@
-name: Generate Activity Overview
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -8,28 +8,28 @@ on:
     branches:
       - main
     paths:
-      - ".github/scripts/activity_overview.py"
-      - ".github/workflows/activity-overview.yml"
+      - ".github/scripts/contribution_snake.py"
+      - ".github/workflows/contribution-snake.yml"
 
 jobs:
-  overview:
+  snake:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate activity overview SVG
+      - name: Generate contribution snake SVG
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_LOGIN: Bhumika-1432006
-        run: python3 .github/scripts/activity_overview.py activity-overview.svg
+        run: python3 .github/scripts/contribution_snake.py contribution-snake.svg
 
-      - name: Commit activity-overview.svg
+      - name: Commit contribution-snake.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add activity-overview.svg
-          git diff --staged --quiet || git commit -m "Update activity-overview.svg"
+          git add contribution-snake.svg
+          git diff --staged --quiet || git commit -m "Update contribution-snake.svg"
           git pull --rebase origin main
           git push

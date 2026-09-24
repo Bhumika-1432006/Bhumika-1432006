@@ -129,7 +129,7 @@ A modern AI companion that provides real-time intelligent responses. This projec
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bhumika-1432006/Bhumika-1432006/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+  <img src="https://raw.githubusercontent.com/Bhumika-1432006/Bhumika-1432006/main/contribution-snake.svg" alt="Contribution Snake animation" />
 </p>
 
 ---
