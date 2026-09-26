@@ -378,7 +378,8 @@
     <rect class="c3" x="800" y="65" width="11" height="11" rx="2"/>
     <rect class="c2" x="800" y="80" width="11" height="11" rx="2"/>
     <rect class="c3" x="800" y="95" width="11" height="11" rx="2"/>
-    <rect class="c0" x="800" y="110" width="11" height="11" rx="2"/>
+    <rect class="c1" x="800" y="110" width="11" height="11" rx="2"/>
+    <rect class="c0" x="800" y="125" width="11" height="11" rx="2"/>
   </g>
   <rect width="11" height="11" rx="3" fill="#472680"><animateMotion dur="17.38s" begin="-0.11s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
   <rect width="11" height="11" rx="3" fill="#5a32a3"><animateMotion dur="17.38s" begin="-0.22s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
