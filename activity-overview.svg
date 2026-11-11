@@ -18,7 +18,7 @@
   <circle cx="165.0" cy="150.0" r="3.5" fill="#0d1117" stroke="#3fb950" stroke-width="2"/>
   <text x="247" y="30" text-anchor="middle" class="pct">1%</text>
   <text x="247" y="46" text-anchor="middle" class="label">Code review</text>
-  <text x="355" y="148" class="pct">5%</text>
+  <text x="355" y="148" class="pct">4%</text>
   <text x="355" y="164" class="label">Issues</text>
   <text x="247" y="266" text-anchor="middle" class="pct">32%</text>
   <text x="247" y="282" text-anchor="middle" class="label">Pull requests</text>
