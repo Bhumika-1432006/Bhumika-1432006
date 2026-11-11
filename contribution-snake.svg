@@ -6,7 +6,7 @@
     .c3 { fill: #0f6d31; }
     .c4 { fill: #00c647; }
   </style>
-  <defs><path id="snake-path" d="M -130 110 L -115 110 L -100 110 L -85 110 L -70 110 L -55 110 L -40 110 L -25 110 L -10 110 L 5 110 L 20 110 L 35 110 L 50 110 L 65 110 L 80 110 L 95 110 L 95 95 L 95 80 L 95 65 L 110 65 L 125 65 L 140 65 L 140 50 L 140 35 L 155 35 L 170 35 L 185 35 L 200 35 L 215 35 L 215 50 L 215 65 L 230 65 L 245 65 L 260 65 L 275 65 L 275 50 L 290 50 L 290 35 L 290 20 L 305 20 L 320 20 L 335 20 L 335 35 L 350 35 L 350 50 L 365 50 L 380 50 L 380 35 L 365 35 L 365 20 L 380 20 L 395 20 L 410 20 L 410 35 L 410 50 L 425 50 L 425 65 L 440 65 L 455 65 L 455 50 L 470 50 L 485 50 L 500 50 L 500 35 L 515 35 L 530 35 L 545 35 L 560 35 L 575 35 L 590 35 L 605 35 L 605 50 L 605 65 L 605 80 L 590 80 L 575 80 L 575 65 L 575 50 L 560 50 L 560 65 L 560 80 L 545 80 L 545 95 L 545 110 L 545 125 L 530 125 L 515 125 L 515 110 L 530 110 L 530 95 L 530 80 L 530 65 L 530 50 L 515 50 L 515 65 L 515 80 L 500 80 L 500 95 L 500 110 L 500 125 L 485 125 L 485 110 L 470 110 L 470 125 L 470 140 L 485 140 L 500 140 L 515 140 L 530 140 L 545 140 L 560 140 L 575 140 L 590 140 L 605 140 L 620 140 L 635 140 L 650 140 L 665 140 L 680 140 L 695 140 L 710 140 L 725 140 L 740 140 L 755 140 L 770 140 L 785 140 L 785 125 L 785 110 L 785 95 L 785 80 L 785 65 L 800 65 L 815 65 L 830 65 L 845 65 L 860 65 L 875 65 L 890 65 L 905 65 L 920 65 L 935 65 L 950 65"/></defs>
+  <defs><path id="snake-path" d="M -130 110 L -115 110 L -100 110 L -85 110 L -70 110 L -55 110 L -40 110 L -25 110 L -10 110 L 5 110 L 20 110 L 35 110 L 50 110 L 65 110 L 80 110 L 95 110 L 95 95 L 95 80 L 95 65 L 110 65 L 125 65 L 140 65 L 140 50 L 140 35 L 155 35 L 170 35 L 185 35 L 200 35 L 215 35 L 215 50 L 215 65 L 230 65 L 245 65 L 260 65 L 275 65 L 275 50 L 290 50 L 290 35 L 290 20 L 305 20 L 320 20 L 335 20 L 335 35 L 350 35 L 350 50 L 365 50 L 380 50 L 380 35 L 365 35 L 365 20 L 380 20 L 395 20 L 410 20 L 410 35 L 410 50 L 425 50 L 425 65 L 440 65 L 455 65 L 455 50 L 470 50 L 485 50 L 500 50 L 500 35 L 515 35 L 530 35 L 545 35 L 560 35 L 575 35 L 590 35 L 605 35 L 605 50 L 605 65 L 605 80 L 590 80 L 575 80 L 575 65 L 575 50 L 560 50 L 560 65 L 560 80 L 545 80 L 545 95 L 545 110 L 545 125 L 530 125 L 515 125 L 515 110 L 530 110 L 530 95 L 530 80 L 530 65 L 530 50 L 515 50 L 515 65 L 515 80 L 500 80 L 500 95 L 500 110 L 500 125 L 485 125 L 485 110 L 470 110 L 470 125 L 470 140 L 485 140 L 500 140 L 515 140 L 530 140 L 545 140 L 560 140 L 575 140 L 590 140 L 605 140 L 620 140 L 635 140 L 650 140 L 665 140 L 680 140 L 695 140 L 710 140 L 725 140 L 740 140 L 755 140 L 770 140 L 785 140 L 785 125 L 785 110 L 785 95 L 785 80 L 800 80 L 815 80 L 830 80 L 845 80 L 860 80 L 875 80 L 890 80 L 905 80 L 920 80 L 935 80 L 950 80"/></defs>
   <rect x="0.5" y="0.5" width="830" height="170" rx="6" fill="#0d1117" stroke="#30363d"/>
   <g>
     <rect class="c0" x="20" y="35" width="11" height="11" rx="2"/>
@@ -375,13 +375,14 @@
     <rect class="c0" x="785" y="125" width="11" height="11" rx="2"/>
     <rect class="c0" x="800" y="35" width="11" height="11" rx="2"/>
     <rect class="c0" x="800" y="50" width="11" height="11" rx="2"/>
-    <rect class="c0" x="800" y="65" width="11" height="11" rx="2"/>
+    <rect class="c1" x="800" y="65" width="11" height="11" rx="2"/>
+    <rect class="c0" x="800" y="80" width="11" height="11" rx="2"/>
   </g>
-  <rect width="11" height="11" rx="3" fill="#472680"><animateMotion dur="15.51s" begin="-0.11s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#5a32a3"><animateMotion dur="15.51s" begin="-0.22s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#6e40c9"><animateMotion dur="15.51s" begin="-0.33s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#8957e5"><animateMotion dur="15.51s" begin="-0.44s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#a371f7"><animateMotion dur="15.51s" begin="-0.55s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#bc8cff"><animateMotion dur="15.51s" begin="-0.66s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#d2a8ff"><animateMotion dur="15.51s" begin="-0.77s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#472680"><animateMotion dur="15.40s" begin="-0.11s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#5a32a3"><animateMotion dur="15.40s" begin="-0.22s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#6e40c9"><animateMotion dur="15.40s" begin="-0.33s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#8957e5"><animateMotion dur="15.40s" begin="-0.44s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#a371f7"><animateMotion dur="15.40s" begin="-0.55s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#bc8cff"><animateMotion dur="15.40s" begin="-0.66s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#d2a8ff"><animateMotion dur="15.40s" begin="-0.77s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
 </svg>
