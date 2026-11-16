@@ -6,7 +6,7 @@
     .c3 { fill: #0f6d31; }
     .c4 { fill: #00c647; }
   </style>
-  <defs><path id="snake-path" d="M -130 110 L -115 110 L -100 110 L -85 110 L -70 110 L -55 110 L -40 110 L -25 110 L -10 110 L 5 110 L 20 110 L 35 110 L 35 95 L 50 95 L 65 95 L 80 95 L 80 80 L 80 65 L 80 50 L 95 50 L 110 50 L 125 50 L 125 35 L 140 35 L 155 35 L 170 35 L 185 35 L 200 35 L 215 35 L 215 50 L 215 65 L 230 65 L 245 65 L 260 65 L 275 65 L 275 80 L 275 95 L 260 95 L 260 80 L 245 80 L 245 95 L 245 110 L 260 110 L 260 125 L 245 125 L 245 140 L 260 140 L 275 140 L 290 140 L 290 125 L 305 125 L 320 125 L 335 125 L 335 110 L 335 95 L 335 80 L 335 65 L 350 65 L 365 65 L 365 80 L 380 80 L 395 80 L 410 80 L 410 65 L 410 50 L 425 50 L 425 35 L 440 35 L 440 50 L 455 50 L 470 50 L 470 35 L 485 35 L 500 35 L 515 35 L 515 50 L 530 50 L 530 65 L 530 80 L 545 80 L 560 80 L 560 65 L 560 50 L 560 35 L 575 35 L 590 35 L 590 20 L 605 20 L 620 20 L 635 20 L 650 20 L 665 20 L 680 20 L 695 20 L 710 20 L 725 20 L 740 20 L 755 20 L 770 20 L 770 35 L 770 50 L 785 50 L 785 35 L 800 35 L 815 35 L 830 35 L 845 35 L 860 35 L 875 35 L 890 35 L 905 35 L 920 35 L 935 35 L 950 35"/></defs>
+  <defs><path id="snake-path" d="M -130 110 L -115 110 L -100 110 L -85 110 L -70 110 L -55 110 L -40 110 L -25 110 L -10 110 L 5 110 L 20 110 L 35 110 L 35 95 L 50 95 L 65 95 L 80 95 L 80 80 L 80 65 L 80 50 L 95 50 L 110 50 L 125 50 L 125 35 L 140 35 L 155 35 L 170 35 L 185 35 L 200 35 L 215 35 L 215 50 L 215 65 L 230 65 L 245 65 L 260 65 L 275 65 L 275 80 L 275 95 L 260 95 L 260 80 L 245 80 L 245 95 L 245 110 L 260 110 L 260 125 L 245 125 L 245 140 L 260 140 L 275 140 L 290 140 L 290 125 L 305 125 L 320 125 L 335 125 L 335 110 L 335 95 L 335 80 L 335 65 L 350 65 L 365 65 L 365 80 L 380 80 L 395 80 L 410 80 L 410 65 L 410 50 L 425 50 L 425 35 L 440 35 L 440 50 L 455 50 L 470 50 L 470 35 L 485 35 L 500 35 L 515 35 L 515 50 L 530 50 L 530 65 L 530 80 L 545 80 L 560 80 L 560 65 L 560 50 L 560 35 L 575 35 L 590 35 L 590 20 L 605 20 L 620 20 L 635 20 L 650 20 L 665 20 L 680 20 L 695 20 L 710 20 L 725 20 L 740 20 L 755 20 L 770 20 L 770 35 L 770 50 L 785 50 L 800 50 L 815 50 L 830 50 L 845 50 L 860 50 L 875 50 L 890 50 L 905 50 L 920 50 L 935 50 L 950 50"/></defs>
   <rect x="0.5" y="0.5" width="830" height="170" rx="6" fill="#0d1117" stroke="#30363d"/>
   <g>
     <rect class="c0" x="20" y="35" width="11" height="11" rx="2"/>
@@ -373,13 +373,14 @@
     <rect class="c1" x="785" y="95" width="11" height="11" rx="2"/>
     <rect class="c1" x="785" y="110" width="11" height="11" rx="2"/>
     <rect class="c0" x="785" y="125" width="11" height="11" rx="2"/>
-    <rect class="c0" x="800" y="35" width="11" height="11" rx="2"/>
+    <rect class="c1" x="800" y="35" width="11" height="11" rx="2"/>
+    <rect class="c0" x="800" y="50" width="11" height="11" rx="2"/>
   </g>
-  <rect width="11" height="11" rx="3" fill="#472680"><animateMotion dur="12.43s" begin="-0.11s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#5a32a3"><animateMotion dur="12.43s" begin="-0.22s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#6e40c9"><animateMotion dur="12.43s" begin="-0.33s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#8957e5"><animateMotion dur="12.43s" begin="-0.44s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#a371f7"><animateMotion dur="12.43s" begin="-0.55s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#bc8cff"><animateMotion dur="12.43s" begin="-0.66s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
-  <rect width="11" height="11" rx="3" fill="#d2a8ff"><animateMotion dur="12.43s" begin="-0.77s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#472680"><animateMotion dur="12.32s" begin="-0.11s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#5a32a3"><animateMotion dur="12.32s" begin="-0.22s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#6e40c9"><animateMotion dur="12.32s" begin="-0.33s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#8957e5"><animateMotion dur="12.32s" begin="-0.44s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#a371f7"><animateMotion dur="12.32s" begin="-0.55s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#bc8cff"><animateMotion dur="12.32s" begin="-0.66s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
+  <rect width="11" height="11" rx="3" fill="#d2a8ff"><animateMotion dur="12.32s" begin="-0.77s" repeatCount="indefinite" calcMode="paced"><mpath xlink:href="#snake-path"/></animateMotion></rect>
 </svg>
