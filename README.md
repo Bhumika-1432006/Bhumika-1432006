@@ -14,28 +14,6 @@ I build AI agents that fix themselves, CUDA solvers that go 8.7× faster, and sh
 
 ---
 
-## 🌍 Open Source
-
-**[292 merged pull requests](https://github.com/search?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged+-user%3ABhumika-1432006&type=pullrequests)** across 21 repositories in Python, TypeScript, Go and C.
-
-| Project | ⭐ | Merged | Highlights |
-|---|---|---|---|
-| [last30days-skill](https://github.com/mvanhorn/last30days-skill/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 72k | 6 | Regression tests for percent-encoding to prevent `UnicodeEncodeError` on non-Latin topics ([#1234](https://github.com/mvanhorn/last30days-skill/pull/1234)) |
-| [OpenSRE](https://github.com/Tracer-Cloud/opensre/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 14k | 2 | Slack webhooks, Datadog metrics and Grafana alert correlation in the AI SRE agent ([#4983](https://github.com/Tracer-Cloud/opensre/pull/4983)) |
-| [cloudflare-docs](https://github.com/cloudflare/cloudflare-docs/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 5.5k | 1 | Docs fix |
-| [cli-printing-press](https://github.com/mvanhorn/cli-printing-press/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 5k | 4 | Fixed concurrent `os.Stderr` race conditions ([#4947](https://github.com/mvanhorn/cli-printing-press/pull/4947)) |
-| [future-agi](https://github.com/future-agi/future-agi/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 2.3k | 1 | Bug fix |
-| [printing-press-library](https://github.com/mvanhorn/printing-press-library/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 2.1k | 5 | `npx` PATH, stale `REDMINE_URL`, Notion and OpenRouter docs ([#2276](https://github.com/mvanhorn/printing-press-library/pull/2276)–[#2280](https://github.com/mvanhorn/printing-press-library/pull/2280)) |
-| [Reticle](https://github.com/reticlehq/reticle/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 1.3k | 12 | Screenshot race fix, TanStack `isInvalidated`, ARIA-role hints ([#1722](https://github.com/reticlehq/reticle/pull/1722)–[#1724](https://github.com/reticlehq/reticle/pull/1724)) |
-| [Bernstein](https://github.com/sipyourdrink-ltd/bernstein/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 1.2k | 36 | DLP scanner ([#5885](https://github.com/sipyourdrink-ltd/bernstein/pull/5885)), tamper-evident SIEM hash-chains ([#5605](https://github.com/sipyourdrink-ltd/bernstein/pull/5605)), sandbox bypass removed ([#5673](https://github.com/sipyourdrink-ltd/bernstein/pull/5673)) |
-| [Copperhead](https://github.com/copperheadhq/copperhead/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 700 | 1 | `doctor` health-check for `openspec` ([#193](https://github.com/copperheadhq/copperhead/pull/193)) |
-| [CWIST](https://github.com/c4punks/CWIST/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | – | 83 | Top contributor |
-| [agit](https://github.com/agitHQ/agit/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | – | 10 | |
-
-**In review at:** PyTorch · VS Code · Ollama · crewAI · Supabase · Bun · Excalidraw · Zulip · Infisical · OpenAI Cookbook
-
----
-
 ## 🚨 Featured Project: Nikaas
 
 An evacuation digital twin engine that simulates how people actually move out of a building in an emergency, and finds the routing that gets everyone out fastest.
@@ -157,6 +135,28 @@ A modern AI companion that provides real-time intelligent responses. This projec
 | [AgroSetu](https://github.com/Bhumika-1432006/Agrosetu-frontend) · [Live](https://agrosetu-frontend.vercel.app) | Web platform for farmers |
 
 </details>
+
+---
+
+## 🌍 Open Source
+
+**[292 merged pull requests](https://github.com/search?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged+-user%3ABhumika-1432006&type=pullrequests)** across 21 repositories in Python, TypeScript, Go and C.
+
+| Project | ⭐ | Merged | Highlights |
+|---|---|---|---|
+| [last30days-skill](https://github.com/mvanhorn/last30days-skill/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 72k | 6 | Regression tests for percent-encoding to prevent `UnicodeEncodeError` on non-Latin topics ([#1234](https://github.com/mvanhorn/last30days-skill/pull/1234)) |
+| [OpenSRE](https://github.com/Tracer-Cloud/opensre/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 14k | 2 | Slack webhooks, Datadog metrics and Grafana alert correlation in the AI SRE agent ([#4983](https://github.com/Tracer-Cloud/opensre/pull/4983)) |
+| [cloudflare-docs](https://github.com/cloudflare/cloudflare-docs/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 5.5k | 1 | Docs fix |
+| [cli-printing-press](https://github.com/mvanhorn/cli-printing-press/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 5k | 4 | Fixed concurrent `os.Stderr` race conditions ([#4947](https://github.com/mvanhorn/cli-printing-press/pull/4947)) |
+| [future-agi](https://github.com/future-agi/future-agi/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 2.3k | 1 | Bug fix |
+| [printing-press-library](https://github.com/mvanhorn/printing-press-library/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 2.1k | 5 | `npx` PATH, stale `REDMINE_URL`, Notion and OpenRouter docs ([#2276](https://github.com/mvanhorn/printing-press-library/pull/2276)–[#2280](https://github.com/mvanhorn/printing-press-library/pull/2280)) |
+| [Reticle](https://github.com/reticlehq/reticle/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 1.3k | 12 | Screenshot race fix, TanStack `isInvalidated`, ARIA-role hints ([#1722](https://github.com/reticlehq/reticle/pull/1722)–[#1724](https://github.com/reticlehq/reticle/pull/1724)) |
+| [Bernstein](https://github.com/sipyourdrink-ltd/bernstein/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 1.2k | 36 | DLP scanner ([#5885](https://github.com/sipyourdrink-ltd/bernstein/pull/5885)), tamper-evident SIEM hash-chains ([#5605](https://github.com/sipyourdrink-ltd/bernstein/pull/5605)), sandbox bypass removed ([#5673](https://github.com/sipyourdrink-ltd/bernstein/pull/5673)) |
+| [Copperhead](https://github.com/copperheadhq/copperhead/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | 700 | 1 | `doctor` health-check for `openspec` ([#193](https://github.com/copperheadhq/copperhead/pull/193)) |
+| [CWIST](https://github.com/c4punks/CWIST/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | – | 83 | Top contributor |
+| [agit](https://github.com/agitHQ/agit/pulls?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged) | – | 10 | |
+
+**In review at:** PyTorch · VS Code · Ollama · crewAI · Supabase · Bun · Excalidraw · Zulip · Infisical · OpenAI Cookbook
 
 ---
 
