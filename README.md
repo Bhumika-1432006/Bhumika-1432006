@@ -66,22 +66,6 @@ A self-repairing AI agent harness. Mend reads its own neatlogs traces, finds wha
 
 ---
 
-## ⚡ Featured Project: Sankhya
-
-A GPU-accelerated mathematical optimization solver built for refinery logistics planning.
-
-- **Solver Coverage:** Linear (LP), mixed-integer (MILP) and convex quadratic (QP) programs.
-- **GPU Speed:** Up to **8.7× faster** than CPU baselines on NVIDIA A100 and L4 GPUs.
-- **Benchmarked:** Tested across the standard Netlib and Maros-Mészáros benchmark suites.
-
-**🔗 Project Code Links:**
-* **Repository:** [View Code 💻](https://github.com/thegoodengineers/SANKHYA)
-
-### 🔗 Live Links
-- **[Sankhya Project Site](https://sankhya-solver.vercel.app)** 🌐
-
----
-
 ## 📸 Featured Project: SnapClass AI
 
 An intelligent classroom attendance and engagement automation platform designed to eliminate manual roll calls and stop proxy attendance using computer vision and audio analysis.
