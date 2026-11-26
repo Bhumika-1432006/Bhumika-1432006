@@ -36,35 +36,125 @@ I build AI agents that fix themselves, CUDA solvers that go 8.7× faster, and sh
 
 ---
 
-## 🏆 Featured Projects
+## 🚨 Featured Project: Nikaas
 
-### 🚨 [Nikaas](https://github.com/thegoodengineers/Nikaas): Evacuation Digital Twin · 🥇 1st Prize, AfterHours 1.0 AWS Hackathon
-Topological graph load-balancing cut egress time by **44.6%**. Wheelchair-aware DAG routing and crowd-density audits, validated over 200 Monte Carlo runs.
-`Python` `React` `TypeScript` `NumPy` `AWS Lambda`
+An evacuation digital twin engine that simulates how people actually move out of a building in an emergency, and finds the routing that gets everyone out fastest.
 
-### 🔧 [Mend](https://github.com/thegoodengineers/mend): Self-Repairing AI Agent · 🥉 3rd Global, neatHack 2026 (205 teams, 64 countries)
-An agent that reads its own neatlogs traces, fixes its own code and proves the fix. **−62.5%** cost, **−58%** tokens, automated Git rollback gates.
-`Python` `TypeScript` `Claude Code` `MCP` · 🌐 **[Live](https://thegoodengineers.github.io/mend/)**
+- **Graph Load-Balancing:** Topological load-balancing across exits cut egress time by **44.6%**.
+- **Inclusive Routing:** DAG-based wheelchair routing so accessible paths are planned, not an afterthought.
+- **Behavioral Models:** Compliance models for how people really respond to instructions, plus real-time crowd-density audits.
+- **Validated:** Results checked over **200 Monte Carlo runs**.
 
-### ⚡ [Sankhya](https://github.com/thegoodengineers/SANKHYA): GPU Optimization Solver · Smart India Hackathon 2026
-GPU-accelerated LP / MILP / convex QP solver for refinery logistics. Up to **8.7× speedup** on NVIDIA A100/L4 over CPU baselines.
-`C/C++` `CUDA` `Python` · 🌐 **[Live](https://sankhya-solver.vercel.app)**
+**🔗 Project Code Links:**
+* **Repository:** [View Code 💻](https://github.com/thegoodengineers/Nikaas)
 
-### 📸 [SnapClass AI](https://github.com/Bhumika-1432006/Snap-Class): Smart Attendance · 📄 IEEE RICE 2026 (#026688) · 🥇 1st Prize, PBL Hackathon
-Face recognition with a voice roll-call fallback, passwordless face login, teacher and student portals, QR sessions, and *"Your Semester, Roasted"*.
-`Python` `Dlib` `Supabase` `Streamlit` · 🌐 **[Live](https://snap-class--main.streamlit.app/)**
+---
 
-### 🏥 [Med-Synth AI](https://github.com/Bhumika-1432006/-Med_Synth_AI): Privacy-First Clinical Twins
-CTGAN/TVAE synthetic patient data with HIPAA-style PII scrubbing, differential privacy and re-identification stress tests.
-`Python` `SDV` `CTGAN` `Streamlit` · 🌐 **[Live](https://med-synth-ai.streamlit.app/)**
+## 🔧 Featured Project: Mend
 
-### 📈 Zerodha Full-Stack Clone
-Stock-trading simulator split into three services, with JWT auth and live portfolio CRUD.
-[Landing](https://github.com/Bhumika-1432006/zerodha-frontend) · [Console](https://github.com/Bhumika-1432006/zerodha-dashboard) · [Backend](https://github.com/Bhumika-1432006/Zerodha) · 🌐 **[Site](https://zerodha-frontend-xi.vercel.app/)** · **[Console](https://zerodha-dashboard-eta.vercel.app/)** · **[API](https://zerodha-pify.onrender.com/)**
+A self-repairing AI agent harness. Mend reads its own neatlogs traces, finds what broke, patches its own code and proves the fix before keeping it.
 
-### 🤖 HelpGPT: AI Chat Assistant
-OpenAI-powered chat with private, persistent threads per user.
-[Frontend](https://github.com/Bhumika-1432006/Helpgpt-frontend) · [Backend](https://github.com/Bhumika-1432006/Helpgpt-backend) · 🌐 **[Live](https://helpgpt-frontend.vercel.app/)** · **[API](https://helpgpt-backend.onrender.com/)**
+- **Self-Repair Loop:** Incident → trace → root cause → patch → checked rerun, fully automated.
+- **Cheaper & Leaner:** Cut task cost by **62.5%** ($0.040 → $0.015) and token use by **58%** across 29 tasks.
+- **Safety Gates:** Automated Git rollback whenever a fix makes things worse.
+
+**🔗 Project Code Links:**
+* **Repository:** [View Code 💻](https://github.com/thegoodengineers/mend)
+
+### 🔗 Live Links
+- **[Mend Project Page](https://thegoodengineers.github.io/mend/)** 🌐
+
+---
+
+## ⚡ Featured Project: Sankhya
+
+A GPU-accelerated mathematical optimization solver built for refinery logistics planning.
+
+- **Solver Coverage:** Linear (LP), mixed-integer (MILP) and convex quadratic (QP) programs.
+- **GPU Speed:** Up to **8.7× faster** than CPU baselines on NVIDIA A100 and L4 GPUs.
+- **Benchmarked:** Tested across the standard Netlib and Maros-Mészáros benchmark suites.
+
+**🔗 Project Code Links:**
+* **Repository:** [View Code 💻](https://github.com/thegoodengineers/SANKHYA)
+
+### 🔗 Live Links
+- **[Sankhya Project Site](https://sankhya-solver.vercel.app)** 🌐
+
+---
+
+## 📸 Featured Project: SnapClass AI
+
+An intelligent classroom attendance and engagement automation platform designed to eliminate manual roll calls and stop proxy attendance using computer vision and audio analysis.
+
+- **Dual-Verification AI Pipeline:** Deep facial recognition matches student profiles across classroom snapshots in seconds, paired with an audio-recognition fallback for voice roll-call verification.
+- **Passwordless Face Login:** Real-time facial identification for instant student authentication directly through a single camera snapshot.
+- **Dual Role Architecture:** Distinct portals for teachers (class QR codes, subject generation, CSV logs, issue replies) and students (subject cards, private notes, dispute reporting).
+- **Gamification & Student Life:** Features interactive engagement modules like *"Your Semester, Roasted"* (AI-generated attendance commentary) and *"Start Beef"* (peer-to-peer streak tracking).
+- **UI/UX Polish:** Fast, lightweight Streamlit frontend styled with a modern, responsive design and custom avatar personalization.
+
+**🔗 Project Code Links:**
+* **Repository:** [View Code 💻](https://github.com/Bhumika-1432006/Snap-Class)
+
+### 🔗 Live Links
+- **[SnapClass AI App](https://snap-class--main.streamlit.app/)** 🌐
+
+---
+
+## 🏥 Featured Project: Med-Synth AI
+
+A privacy-first clinical platform designed to bridge the gap between high-utility medical research and strict data confidentiality. By generating statistically accurate "Clinical Twins," this project enables secure AI training without exposing real patient information.
+
+- **Generative Architecture:** Utilizes advanced models like **CTGAN** and **TVAE** to preserve the complex statistical correlations of clinical data.
+- **Privacy-First Pipeline:** Automated, HIPAA-compliant PII scrubbing engine that identifies and removes sensitive patient identifiers.
+- **Security & Validation:** Integrated differential privacy and "Clinical Turing Tests" to stress-test synthetic datasets against re-identification risks.
+- **UI/UX Engineering:** Modern, minimalist interface built with **Streamlit**, featuring custom dark-mode glassmorphism and real-time feedback consoles.
+
+**🔗 Project Code Links:**
+* **Repository:** [View Code 💻](https://github.com/Bhumika-1432006/-Med_Synth_AI)
+
+### 🔗 Live Links
+- **[Med-Synth AI App](https://med-synth-ai.streamlit.app/)** 🌐
+
+---
+
+## 📈 Featured Project: Zerodha Full-Stack Clone
+
+A comprehensive stock trading simulation platform. This project demonstrates my ability to handle complex state management, secure authentication, and multi-service deployment.
+
+- **Architecture:** Decoupled into 3 specialized repositories (Backend, Landing Page, and Trading Dashboard) to ensure modularity and independent scaling.
+- **Authentication:** Custom JWT-based logic with secure credential handling.
+- **Data Management:** Real-time CRUD operations for portfolio holdings and funds using Mongoose.
+
+**🔗 Project Code Links:**
+* **Landing Page (Marketing & Entry):** [View Code 🌐](https://github.com/Bhumika-1432006/zerodha-frontend)
+* **Trading Console (Dashboard & Logic):** [View Code 📊](https://github.com/Bhumika-1432006/zerodha-dashboard)
+* **Backend API (Server & Database):** [View Code ⚙️](https://github.com/Bhumika-1432006/Zerodha)
+
+### 🔗 Live Links
+- **[Main Entry Point (Landing Page)](https://zerodha-frontend-xi.vercel.app/)** 🌐
+- **[Trading Console (Dashboard)](https://zerodha-dashboard-eta.vercel.app/)** 📊
+- **[Backend API (Render)](https://zerodha-pify.onrender.com/)** ⚙️
+
+---
+
+## 🤖 Featured Project: HelpGPT - AI Chat Assistant
+
+A modern AI companion that provides real-time intelligent responses. This project highlights my skills in **Generative AI integration** and **User-Specific Persistence**.
+
+- **AI Integration:** Seamless connection with OpenAI API for contextual, high-quality chat interactions.
+- **Auth Overlay:** Custom-built signup gateway with a modern **Glass-morphism Blur** effect.
+- **Thread Management:** User-specific history storage in MongoDB, allowing private and persistent chat threads.
+- **UI/UX:** Premium dark-themed interface with mobile-responsive sidebar and real-time loading states.
+
+**🔗 Project Code Links:**
+* **Frontend Repository:** [View Code 🌐](https://github.com/Bhumika-1432006/Helpgpt-frontend)
+* **Backend Repository:** [View Code ⚙️](https://github.com/Bhumika-1432006/Helpgpt-backend)
+
+### 🔗 Live Links
+- **[HelpGPT Web App (Frontend)](https://helpgpt-frontend.vercel.app/)** 🌐
+- **[API Service (Backend)](https://helpgpt-backend.onrender.com/)** ⚙️
+
+---
 
 <details>
 <summary><b>🧪 More builds (click to expand)</b></summary>
@@ -83,16 +173,6 @@ OpenAI-powered chat with private, persistent threads per user.
 | [AgroSetu](https://github.com/Bhumika-1432006/Agrosetu-frontend) · [Live](https://agrosetu-frontend.vercel.app) | Web platform for farmers |
 
 </details>
-
----
-
-## 🏅 Achievements
-
-- 🥇 **1st Prize, AfterHours 1.0 AWS Hackathon** (Nikaas) · [certificate](https://drive.google.com/file/d/1j-eH_9deH4UW2I3jlEtYFk_fiiHax-F7/view?usp=sharing)
-- 🥉 **3rd Place, neatHack 2026** (Mend) · top 3 of 205 teams, 64 countries · [post](https://www.linkedin.com/posts/1300-builders-and-205-projects-in-one-weekend-ugcPost-7520480863122423808-v34H/)
-- 📄 **IEEE RICE 2026 paper presenter** (SnapClass, #026688) · [certificate](https://drive.google.com/file/d/1M7VtelouIuMayFkMKkdX36RTb9cwDTnq/view?usp=sharing)
-- 🥇 **1st Prize, PBL Hackathon, DSATM** (SnapClass) · [certificate](https://drive.google.com/file/d/15jW0V9BV5CiBPVnoJFkpjfc-vqdLhzjV/view?usp=sharing)
-- 🥇 **1st Prize, CodeSprint Live Hackathon, DSATM** · [certificate](https://drive.google.com/file/d/1bHkAbJtLL-UaFCAsb1jzgCk_ABCZrtBU/view?usp=sharing)
 
 ---
 
