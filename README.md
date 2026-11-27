@@ -1,8 +1,6 @@
-# Hi there, I'm Bhumika! 👋
+# Hi there, I'm Bhumika! 👋 👩‍💻
 
-**AI Developer Intern @ Dakini AI** · ISE @ DSATM (CGPA 9.28) · open-source contributor · hackathon winner
-
-I build AI agents that fix themselves, CUDA solvers that go 8.7× faster, and ship a lot of pull requests.
+I am an **Information Science & Engineering** student and **Full-Stack MERN Developer**..
 
 <p align="left">
   <a href="https://github.com/search?q=is%3Apr+author%3ABhumika-1432006+is%3Amerged+-user%3ABhumika-1432006&type=pullrequests"><img src="https://img.shields.io/badge/Merged_PRs-292-8A2BE2?style=for-the-badge&logo=git&logoColor=white" alt="292 merged PRs"/></a>
