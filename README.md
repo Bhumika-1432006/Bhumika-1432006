@@ -24,6 +24,9 @@ An evacuation digital twin engine that simulates how people actually move out of
 **🔗 Project Code Links:**
 * **Repository:** [View Code 💻](https://github.com/thegoodengineers/Nikaas)
 
+### 🎥 Demo Video
+- **[Watch Nikaas in Action](https://youtu.be/zwIpXaX80vI)** ▶️
+
 ---
 
 ## 🔧 Featured Project: Mend
@@ -39,6 +42,7 @@ A self-repairing AI agent harness. Mend reads its own neatlogs traces, finds wha
 
 ### 🔗 Live Links
 - **[Mend Project Page](https://thegoodengineers.github.io/mend/)** 🌐
+- **[Demo Video](https://thegoodengineers.github.io/mend/video/demo/mend-demo.mp4)** ▶️
 
 ---
 
@@ -119,18 +123,18 @@ A modern AI companion that provides real-time intelligent responses. This projec
 <details>
 <summary><b>🧪 More builds (click to expand)</b></summary>
 
-| Project | What it does |
-|---|---|
-| [Leash](https://github.com/thegoodengineers/leash) | Ops agent that fixes your AWS at 3 AM but can never destroy anything (Cedar-policy gated) |
-| [Ground Truth](https://github.com/thegoodengineers/ground-truth) · [Live](https://zsx5rsh4vklo266budro23qama0cpbpi.lambda-url.us-east-1.on.aws/) | Which of Delhi's air-quality numbers can you trust? |
-| [Kaksha](https://github.com/thegoodengineers/kaksha) | Satellite collision-risk predictor, 2+ days out |
-| [QNX Porter](https://github.com/thegoodengineers/qnx-porter) | Agent that ports C/C++ libraries to QNX 8.0 and proves each port with tests |
-| [Ctrl-A11y](https://github.com/thegoodengineers/ctrl-a11y) | Paste a URL, get an accessible site, every fix proven by re-audit |
-| [Trusted Try-On](https://github.com/thegoodengineers/trusted-tryon) | Virtual try-on that checks itself against the product photo |
-| [Suvarna Trust](https://github.com/thegoodengineers/suvarna-trust) | One gold record both jeweller and karigar confirm |
-| [AstroRoute](https://github.com/thegoodengineers/astroroute) | Interplanetary signal routing around a jamming asteroid swarm |
-| [Wire Forge](https://github.com/thegoodengineers/wire-forge) | Auto-generates Wire actions from any URL |
-| [AgroSetu](https://github.com/Bhumika-1432006/Agrosetu-frontend) · [Live](https://agrosetu-frontend.vercel.app) | Web platform for farmers |
+| Project | What it does | Live | Demo |
+|---|---|---|---|
+| [Leash](https://github.com/thegoodengineers/leash) | Ops agent that fixes your AWS at 3 AM but can never destroy anything (Cedar-policy gated) | | |
+| [Ground Truth](https://github.com/thegoodengineers/ground-truth) | Which of Delhi's air-quality numbers can you trust? | [🌐 Live](https://zsx5rsh4vklo266budro23qama0cpbpi.lambda-url.us-east-1.on.aws/) | [▶️ Video](https://youtu.be/j03tZfjJbHY) |
+| [QNX Porter](https://github.com/thegoodengineers/qnx-porter) | Agent that ports C/C++ libraries to QNX 8.0 and proves each port with tests | [🌐 Site](https://thegoodengineers.github.io/qnx-porter/) | [▶️ Video](https://youtu.be/tG_pURc5X6g) |
+| [Ctrl-A11y](https://github.com/thegoodengineers/ctrl-a11y) | Paste a URL, get an accessible site, every fix proven by re-audit | [🌐 Live](https://ctrl-a11y.onrender.com) | [▶️ Video](https://youtu.be/WMV3hIreQyw) |
+| [AstroRoute](https://github.com/thegoodengineers/astroroute) | Interplanetary signal routing around a jamming asteroid swarm | [🌐 Live](https://thegoodengineers.github.io/astroroute/?demo=1) | |
+| [Kaksha](https://github.com/thegoodengineers/kaksha) | Satellite collision-risk predictor, 2+ days out | | |
+| [Trusted Try-On](https://github.com/thegoodengineers/trusted-tryon) | Virtual try-on that checks itself against the product photo | | |
+| [Suvarna Trust](https://github.com/thegoodengineers/suvarna-trust) | One gold record both jeweller and karigar confirm | | |
+| [Wire Forge](https://github.com/thegoodengineers/wire-forge) | Auto-generates Wire actions from any URL | | |
+| [AgroSetu](https://github.com/Bhumika-1432006/Agrosetu-frontend) | Web platform for farmers | [🌐 Live](https://agrosetu-frontend.vercel.app) | |
 
 </details>
 
